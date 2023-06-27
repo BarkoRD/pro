@@ -14,7 +14,7 @@ body{
 .main {
     position: relative;
     background-color: #66F389;
-    height: 1700px;
+    height: 3000px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -120,7 +120,7 @@ hr{
 }
 
 .nsfwboxvideo{
-    height: 984px;
+    height: 2270px;
 }
 
 .listitem{
@@ -184,7 +184,7 @@ hr{
   }
 
 .volverdos{
-    top: 1575px;
+    top: 2880px;
     left: 170px;
 }
 
