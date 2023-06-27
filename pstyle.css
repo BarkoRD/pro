@@ -14,7 +14,7 @@ body{
 .main {
     position: relative;
     background-color: #66F389;
-    height: 185vh;
+    height: 190vh;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
